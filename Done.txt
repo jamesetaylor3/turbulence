@@ -1,0 +1,12 @@
+
+Plane reached destination in 130 timesteps
+Plane reached destination in 130 timesteps
+Plane reached destination in 130 timesteps
+Plane reached destination in 129 timesteps
+Plane reached destination in 130 timesteps
+Plane reached destination in 130 timesteps
+Plane reached destination in 130 timesteps
+Plane reached destination in 130 timesteps
+Plane reached destination in 130 timesteps
+
+Plane reached destination in 127 timesteps
